@@ -18,7 +18,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-      - title: lorem-ipsum
+      - title: See my Favorite
         url: '#'
         style: primary
         arrow: false
