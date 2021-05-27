@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: $15.00
+price: '15.00'
 title: 9 Candle variety Sampler Pack Dimensions
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
