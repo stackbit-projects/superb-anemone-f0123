@@ -40,7 +40,7 @@ sections:
       - content/pages/category/cactuses.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: We'll Donate on your Behalf
+    title: $1 from every order goes to
     testimonials:
       - author:
           name: John Dope
