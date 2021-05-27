@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '49.40'
-title: Soy Candles9 Candle variety Sampler Pack Dimensions
+title: 9 Candle variety Sampler Pack Dimensions
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
